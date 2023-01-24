@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am Jo Gamel. I love programming and cybersecurity.
 
 <!--
 **jogamel/jogamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
