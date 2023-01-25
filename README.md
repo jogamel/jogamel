@@ -1,4 +1,4 @@
-<h1>Hi! I'm jogamel</h1>
+<h1>Hi I'm jogamel!</h1>
 
 <h2>👨‍💻Python Projects: </h2>
 
