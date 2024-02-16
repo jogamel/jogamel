@@ -1,4 +1,5 @@
 <h1>Hi, I'm Kelvin!</h1>
+<h2>Information Security Analyst, Programmer, Writer</h2>
 
 <h2>👨‍💻CyberSecurity Projects: </h2>
 
