@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kelvin! <br/><a href="https://github.com/jogamel">Programmer</a>, <a href="https://www.linkedin.com/in/kgyahaya">Information Security Analyst</a>, <a href="#">Writer</a></h1>
+<h1>Hello, I'm Kelvin! <br/><a href="https://github.com/jogamel">Programmer</a>, <a href="https://www.linkedin.com/in/kgyahaya">Information Security Analyst</a>, <a href="#">Writer</a></h1>
 
 <h2>👨‍💻CyberSecurity Projects: </h2>
 
