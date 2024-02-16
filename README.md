@@ -3,7 +3,7 @@
 <h2>👨‍💻CyberSecurity Projects: </h2>
 
 - <b>Cryptogrpahy and Cryptanalysis</b>
-  - [Encryption programme in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Encryption programme in Python](https://github.com/jogamel/substitution_cipher_encryption)
   - [Decryption programme in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
