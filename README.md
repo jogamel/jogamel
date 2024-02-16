@@ -1,5 +1,4 @@
-<h1>Hi, I'm Kelvin!</h1>
-<h2>Information Security Analyst, Programmer, Writer</h2>
+<h1>Hi, I'm Kelvin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="(https://www.linkedin.com/in/kgyahaya/)/">Information Security Analyst</a>, <a href="#">Writer</a></h1>
 
 <h2>👨‍💻CyberSecurity Projects: </h2>
 
